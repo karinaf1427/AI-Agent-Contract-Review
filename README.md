@@ -1,6 +1,6 @@
-##AI Agent for Contract Review 
+**AI Agent for Contract Review**
 
-##Model:
+**Model:**
 
 all-MiniLM-L6-v2 from Hugging Face
 
